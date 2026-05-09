@@ -10,7 +10,7 @@ A powerful productivity tool that keeps your project hierarchy clean and profess
 - **Save/Load:** Your settings are stored within the project.
 
 ## Installation
-1. Copy the `addons/project_organizer` folder to your project's `addons` directory.
+1. Copy the `addons/Origami` folder to your project's `addons` directory.
 2. Go to **Project Settings** > **Plugins** and enable **Origami: Project Folder Organizer**.
 3. Look for the "Project Organizer" tab in the bottom-right dock.
 
