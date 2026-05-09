@@ -1,4 +1,4 @@
-# Origami: smart project organizer for Godot 4.x
+# Origami: Project Folder Organizer for Godot 4.x
 
 A powerful productivity tool that keeps your project hierarchy clean and professional.
 
@@ -11,7 +11,7 @@ A powerful productivity tool that keeps your project hierarchy clean and profess
 
 ## Installation
 1. Copy the `addons/project_organizer` folder to your project's `addons` directory.
-2. Go to **Project Settings** > **Plugins** and enable **Origami: smart project organizer**.
+2. Go to **Project Settings** > **Plugins** and enable **Origami: Project Folder Organizer**.
 3. Look for the "Project Organizer" tab in the bottom-right dock.
 
-v1.0.0 | Created by REDFECT
+`v1.0.0 | Created by REDFECT`
